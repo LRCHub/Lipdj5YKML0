@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "古いSF映画",
+  "base_artist": "amazarashi",
+  "createdAt": "2026-01-11T15:29:27.102045Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "古いSF映画",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/01_古いSF映画_amazarashi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "古いSF映画 Starlight Ver.",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/02_古いSF映画_Starlight_Ver._amazarashi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "古いSF映画",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_古いSF映画_amazarashi.txt"
+    }
+  ]
+}
